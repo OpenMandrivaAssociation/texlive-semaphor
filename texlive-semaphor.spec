@@ -176,6 +176,7 @@ in both OpenType and Adobe Type 1 formats.
 %doc %{_texmfdistdir}/doc/fonts/semaphor/example.tex
 %doc %{_texmfdistdir}/doc/fonts/semaphor/test-context.pdf
 %doc %{_texmfdistdir}/doc/fonts/semaphor/test-context.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -186,3 +187,5 @@ in both OpenType and Adobe Type 1 formats.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
