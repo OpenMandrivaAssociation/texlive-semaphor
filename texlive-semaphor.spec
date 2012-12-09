@@ -177,3 +177,17 @@ in both OpenType and Adobe Type 1 formats.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20080415-2
++ Revision: 755905
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20080415-1
++ Revision: 719503
+- texlive-semaphor
+- texlive-semaphor
+- texlive-semaphor
+- texlive-semaphor
+
