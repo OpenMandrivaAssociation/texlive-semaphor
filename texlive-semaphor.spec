@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-semaphor
 Version:	20080415
-Release:	7
+Release:	8
 Summary:	Semaphore alphabet font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/semaphor
