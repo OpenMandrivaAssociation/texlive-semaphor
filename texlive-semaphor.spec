@@ -5,8 +5,8 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-semaphor
-Version:	20080415
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Semaphore alphabet font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/semaphor
