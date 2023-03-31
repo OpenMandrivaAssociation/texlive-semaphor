@@ -1,6 +1,6 @@
 Name:		texlive-semaphor
 Version:	18651
-Release:	1
+Release:	2
 Summary:	Semaphore alphabet font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/semaphor
