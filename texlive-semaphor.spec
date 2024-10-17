@@ -3,7 +3,7 @@ Version:	18651
 Release:	2
 Summary:	Semaphore alphabet font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/semaphor
+URL:		https://www.ctan.org/tex-archive/fonts/semaphor
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semaphor.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/semaphor.doc.r%{version}.tar.xz
